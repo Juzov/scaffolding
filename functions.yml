@@ -1,0 +1,5 @@
+get_home_address:
+  input: 
+    - user.name
+  output: 
+    - user.address.home_address

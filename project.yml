@@ -1,0 +1,15 @@
+name: example
+language: python
+linter: black
+
+creation:
+  iterations: 10
+  ordered_criteria:
+    - keep worst case time complexity low
+    - limit lines of code
+    - have human friendly variable names 
+
+
+
+
+

@@ -1,0 +1,11 @@
+user:
+  - name
+  - address
+
+address:
+  - postal_code: str
+  - home_address: str
+
+name:
+  - first_name: str
+  - last_name: str
